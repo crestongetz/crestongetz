@@ -3,7 +3,7 @@ My name is Creston. I'm a **Computer Science student** passionate about using so
 I believe technology will continue to revolutionize our progress as a species, and I want to be part of that evolution.
 
 💻 **Current Focus**
-- Developing **full-stack applications** using **JavaScript, React, Node.js, Express, and PostgreSQL**
+- Developing **full-stack applications** using **JavaScript, React, Node.js, Express, MongoDB and PostgreSQL**
 - Learning **DevOps practices**, CI/CD pipelines, and **cloud deployment** (AWS, Docker, Git, Linux)
 - Understanding AI
 
