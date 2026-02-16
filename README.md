@@ -1,6 +1,5 @@
 ## Hi there 👋
-My name is Creston. I'm a **Computer Science student** passionate about using data and software to solve real problems and improve how people live and work.  
-I believe technology will continue to revolutionize our progress as a species, and I want to be part of that evolution.
+My name is Creston. I'm a **Computer Science student** passionate about using data and software to solve real problems.
 
 🧩 **Check out my pinned projects below!**
 
