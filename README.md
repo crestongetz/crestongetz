@@ -9,6 +9,8 @@
 
 <h3 align="left">A computer science student passionate about using data and software to solve real problems.</h3>
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Ryemp4c2I1bmRldnJvdjc3d2Vwa3RpcWh5dGVoNDEwMWNtYWl4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="350" align="right"/>
+
 - 🔭 I’m currently working on [Oil and Consumer Prices Indexes](https://github.com/crestongetz/Oil-and-Consumer-Price-Indexes)
 
 - 🌱 I’m currently learning `Data Engineering and Data Analytics`
@@ -22,6 +24,7 @@
 - 💬 Ask me about **Python, Pandas, Data Cleaning, or Self-Improvement**
 
 - ⚡ Fun fact **I am a avid Athlete**
+
 
 ## Languages & Tools
 
