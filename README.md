@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Oil and Consumer Prices Indexes](https://github.com/crestongetz/Oil-and-Consumer-Price-Indexes)
 
-- 🌱 I’m currently learning `Data Engineering and Data Analytics`
+- 🌱 I’m currently learning `Full Stack Engineering with MEAN`
 
 - 👯 I’m open to collaborate on **Starting a Business or Building Projects**
 
