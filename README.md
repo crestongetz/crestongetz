@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available here on my [Github](https://github.com/crestongetz)
 
-- 💬 Ask me about **Python, Pandas, Data Cleaning, or Self-Improvement**
+- 💬 Ask me about **Python, Data, Entrepreneurship, or Self-Improvement**
 
 - ⚡ Fun fact **I am a avid Athlete**
 
