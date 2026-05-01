@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Python, Data, Entrepreneurship, or Self-Improvement**
 
-- ⚡ Fun fact **I am a avid Athlete**
+- ⚡ Fun fact **I am a avid Athlete and Reader**
 
 
 ## Languages & Tools
